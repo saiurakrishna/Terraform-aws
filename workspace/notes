@@ -1,0 +1,5 @@
+terraform workspace list
+
+terraform workspace new india-payroll
+
+terraform workspace select us-payroll
